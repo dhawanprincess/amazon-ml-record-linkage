@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset
+dataset/
+
+# Generated/debug files
+true_match_output.txt
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/

@@ -18,3 +18,7 @@ true_match_output.txt
 
 # IDE
 .vscode/
+# Private challenge experiments
+src/emergency_submission.py
+src/emergency_v5.py
+src/v5_calibration.py
